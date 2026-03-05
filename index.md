@@ -6,7 +6,7 @@ title: Eliza Phua
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/headshot.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Eliza Phua, and I am building my portfolio.
